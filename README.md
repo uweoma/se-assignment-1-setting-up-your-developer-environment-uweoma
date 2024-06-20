@@ -1,3 +1,5 @@
+Answers are below these and also in "settingUp" file. Not to sure of what to do.
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15281452&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
@@ -52,3 +54,40 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+
+
+Python installation process
+1.	I visited the official Python website and navigated to the “download page”.
+2.	I selected the appropriate version of Python which is 3.12.4
+3.	I clicked the “download” button and waited for it to finish downloading
+4.	Once it finally downloaded, I ran the Python installer by double-clicking on the downloaded file.
+5.	I followed the prompts to complete the installation process of which to make sure I selected the option to add python to PATH6
+6.	To check the version and also verify if it’s successfully installed, I opened my command prompt and typed python --version
+
+
+Visual Studio Code instalation process
+Download Visual Studio Code:
+- I went to the official page to download visual studio code
+- I clicked on the Windows download button to download the installer on my windows system.
+Run the Installer:
+- Once the download was completed, I opened the downloaded .exe file.
+- I followed the installation wizard. It prompted me to agree to the license terms and select the installation location.
+- I chose some additional tasks such as creating a desktop icon or adding VS Code to the PATH (recommended).
+- I clicked on "Install" to begin the installation process.
+Launch Visual Studio Code:
+- After the installation was completed, I then launched VS Code from the Start menu 
+
+After which I went ahead to dowload Prettier and coderunner to customize my visual studio
+
+Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with 
+its own rules that take the maximum line length into account, wrapping code when necessary.
+
+CHALLENGIES AND HOW I OVERCAME It
+I encountered several challengies like:
+- In python installation, installation and customization option gave me issues on which to pick
+- How to navigate to the PATH encountered.
+I was able to overcome by using my best friend(google and youtube)
+
+I'm sorry for the lateness in submission, my screen got broken and I had to fix it by all means.
